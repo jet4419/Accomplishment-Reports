@@ -7,3 +7,6 @@
 
 ## April 5, 2022
 - Meeting for presentation in CBMS Unified Manual
+
+## April 6, 2022
+- Meeting for CBMS Unified Manual & Questionnaire
