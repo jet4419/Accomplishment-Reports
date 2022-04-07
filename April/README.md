@@ -10,3 +10,6 @@
 
 ## April 6, 2022
 - Meeting for CBMS Unified Manual & Questionnaire
+
+## April 7, 2022
+- Start of creating the Training Workbook website 
