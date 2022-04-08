@@ -13,3 +13,6 @@
 
 ## April 7, 2022
 - Start of creating the Training Workbook website 
+
+## April 8, 2022
+- Continuation of creating the Traininig Workbook
