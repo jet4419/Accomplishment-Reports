@@ -16,3 +16,6 @@
 
 ## April 8, 2022
 - Continuation of creating the Traininig Workbook
+
+## April 11 - 13, 2022
+- Workshop on the Harmonization of CBMS Manuals and Questionnaires
