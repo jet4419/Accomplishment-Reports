@@ -19,3 +19,12 @@
 
 ## April 11 - 13, 2022
 - Workshop on the Harmonization of CBMS Manuals and Questionnaires
+
+# April 18, 2022 
+- Preparation to Pretest 
+
+# April 19 - 23, 2022
+- Pretest (Bataan)
+
+# April 25, 2022
+- Transferring PAPI data into CAWI
