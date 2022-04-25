@@ -23,7 +23,7 @@
 # April 18, 2022 
 - Preparation to Pretest 
 
-# April 19 - 23, 2022
+# April 18 - 23, 2022
 - Pretest (Bataan)
 
 # April 25, 2022
