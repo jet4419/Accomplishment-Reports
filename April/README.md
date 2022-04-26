@@ -28,3 +28,7 @@
 
 # April 25, 2022
 - Transferring PAPI data into CAWI
+- Exploring indexedDB
+
+# April 26, 2022
+- Implementing indexedDB on training workbook
