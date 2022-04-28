@@ -32,3 +32,6 @@
 
 # April 26, 2022
 - Implementing indexedDB on training workbook
+
+# April27, 2022
+- Observation on CBMS App (CAWI) with the new HPQ 
