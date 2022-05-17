@@ -4,3 +4,7 @@
 - Meeting on BPQ CAWI Features with ITDS (2hrs)
 - Firebase Firestore 
 
+# May 16, 2022
+- Setting up the multiple files uploading in firebase storage
+- Encoding the images of HPQ enumerator
+
