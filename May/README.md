@@ -8,3 +8,6 @@
 - Setting up the multiple files uploading in firebase storage
 - Encoding the images of HPQ enumerator
 
+# May 17, 2022
+- Encoding of Chapter 8 to Chapter 12 in Unified Manual
+- Exploring the progress bar for caching data of service worker.
